@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android Drafts</string>
+    <string name="roll">Roll</string>
+    <string name="dice_1">[Dice 1]</string>
+    <string name="dice_2">[Dice 2]</string>
+    <string name="dice_1_image">Dice 1 Image</string>
+    <string name="dice_2_image">Dice 2 Image</string>
 </resources>
